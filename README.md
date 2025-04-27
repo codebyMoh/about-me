@@ -9,5 +9,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebyMoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&bg_color=F5F7FA&text_color=1E3A8A&icon_color=3B82F6&title_color=2563EB&border_color=BFDBFE" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyMoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&hide_border=false&bg_color=F5F7FA&text_color=1E3A8A&icon_color=3B82F6&title_color=2563EB&border_color=BFDBFE" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyMoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=false&size_weight=0.5&count_weight=0.5&exclude_repo=notebook-repo&cache_seconds=1800&custom_title=Top%20Languages&random=12345" height="150" alt="languages graph" />
 </div>
